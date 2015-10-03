@@ -39,5 +39,9 @@ git merge [branchName]
 ************
 git checkout [commitId]
 	switches to [commitId]
-	
+*************
+git revert [commitID]
+	swithces to [commitID]
+git reset --hard	
+	resets the working directory
 	
