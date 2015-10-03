@@ -8,6 +8,7 @@ mkdir [d-n]
 	add new folder with name [d-n]
 touch [fileName.extension]
 	create the new folder with name[fileName]
+***********************
 git init
 	create a new git repository
 git status
@@ -18,3 +19,6 @@ git commit -m 'MESSAGE'
 	commits change into repository
 git log
 	shows all commits that were made
+*************************
+git log --oneline
+	shows all the commits in one line each
