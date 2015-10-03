@@ -1,0 +1,10 @@
+pwd 
+	lists present working directory
+ls
+	directory listing
+cd [directory-name]
+	go into [directory-name]
+mkdir [d-n]
+	add new folder with name [d-n]
+touch [fileName.extension]
+	create the new folder with name[fileName]
