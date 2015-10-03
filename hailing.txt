@@ -8,3 +8,13 @@ mkdir [d-n]
 	add new folder with name [d-n]
 touch [fileName.extension]
 	create the new folder with name[fileName]
+git init
+	create a new git repository
+git status
+	tells the status of our working directory
+git add [file]
+	tells git to start tracking a specific [file]
+git commit -m 'MESSAGE'
+	commits change into repository
+git log
+	shows all commits that were made
