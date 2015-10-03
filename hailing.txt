@@ -25,6 +25,8 @@ git log --oneline
 git diff
 	shows what has changed between our working directory and staging area
 *******************
+Branches- parallel universes where we can work on different things in isolation
+
 git branch
 	displays a list of all branches in the repository
 git branch [branchName]
